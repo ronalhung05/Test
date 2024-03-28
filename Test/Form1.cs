@@ -15,5 +15,10 @@ namespace Test
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //1 to many things 
+        }
     }
 }
