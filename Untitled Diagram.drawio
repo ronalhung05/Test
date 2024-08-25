@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-08-25T03:02:15.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.6.2" etag="1frR4i2hX6dqkifY-fxB" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-25T03:06:30.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="Krq98VfssH_yerUJ8TAO" version="24.6.2" type="github">
   <diagram name="Page-1" id="8oNH9lggx6t7SrYQ-okr">
-    <mxGraphModel>
+    <mxGraphModel dx="857" dy="464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dd2BouzEfwVuSSkNQ5Ll-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dd2BouzEfwVuSSkNQ5Ll-1" target="dd2BouzEfwVuSSkNQ5Ll-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dd2BouzEfwVuSSkNQ5Ll-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dd2BouzEfwVuSSkNQ5Ll-1" target="dd2BouzEfwVuSSkNQ5Ll-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dd2BouzEfwVuSSkNQ5Ll-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dd2BouzEfwVuSSkNQ5Ll-1" target="dd2BouzEfwVuSSkNQ5Ll-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dd2BouzEfwVuSSkNQ5Ll-1" value="ADMIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="213" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dd2BouzEfwVuSSkNQ5Ll-2" value="Shipper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="609" y="296" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dd2BouzEfwVuSSkNQ5Ll-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="dd2BouzEfwVuSSkNQ5Ll-3" target="dd2BouzEfwVuSSkNQ5Ll-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dd2BouzEfwVuSSkNQ5Ll-3" value="Editor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="118" y="296" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dd2BouzEfwVuSSkNQ5Ll-7" value="Salesperson" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="427" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dd2BouzEfwVuSSkNQ5Ll-8" value="Assistant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="427" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
